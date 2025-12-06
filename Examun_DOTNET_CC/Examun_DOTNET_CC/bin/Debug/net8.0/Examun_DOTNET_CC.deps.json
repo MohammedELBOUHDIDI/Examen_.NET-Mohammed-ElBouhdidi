@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Examun_DOTNET_CC/1.0.0": {
+        "runtime": {
+          "Examun_DOTNET_CC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examun_DOTNET_CC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

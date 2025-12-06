@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|c:\\users\\abdel\\onedrive\\bureau\\cc_dotnet\\examun_dotnet_cc\\examun_dotnet_cc\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|solutionrelative:examun_dotnet_cc\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|c:\\users\\abdel\\onedrive\\bureau\\cc_dotnet\\examun_dotnet_cc\\examun_dotnet_cc\\documentpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|solutionrelative:examun_dotnet_cc\\documentpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|c:\\users\\abdel\\onedrive\\bureau\\cc_dotnet\\examun_dotnet_cc\\examun_dotnet_cc\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|solutionrelative:examun_dotnet_cc\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|c:\\users\\abdel\\onedrive\\bureau\\cc_dotnet\\examun_dotnet_cc\\examun_dotnet_cc\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|solutionrelative:examun_dotnet_cc\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|c:\\users\\abdel\\onedrive\\bureau\\cc_dotnet\\examun_dotnet_cc\\examun_dotnet_cc\\bibliotheques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|solutionrelative:examun_dotnet_cc\\bibliotheques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|c:\\users\\abdel\\onedrive\\bureau\\cc_dotnet\\examun_dotnet_cc\\examun_dotnet_cc\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|solutionrelative:examun_dotnet_cc\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|c:\\users\\abdel\\onedrive\\bureau\\cc_dotnet\\examun_dotnet_cc\\examun_dotnet_cc\\documentnontrouveexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394AB060-DCCE-4C21-ABC8-5386044C27D9}|Examun_DOTNET_CC\\Examun_DOTNET_CC.csproj|solutionrelative:examun_dotnet_cc\\documentnontrouveexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\Main.cs",
+              "RelativeDocumentMoniker": "Examun_DOTNET_CC\\Main.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\Main.cs",
+              "RelativeToolTip": "Examun_DOTNET_CC\\Main.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwF8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:53:36.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentNonTrouveException.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\DocumentNonTrouveException.cs",
+              "RelativeDocumentMoniker": "Examun_DOTNET_CC\\DocumentNonTrouveException.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\DocumentNonTrouveException.cs",
+              "RelativeToolTip": "Examun_DOTNET_CC\\DocumentNonTrouveException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:14:32.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bibliotheques.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\Bibliotheques.cs",
+              "RelativeDocumentMoniker": "Examun_DOTNET_CC\\Bibliotheques.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\Bibliotheques.cs",
+              "RelativeToolTip": "Examun_DOTNET_CC\\Bibliotheques.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwH8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:19:17.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentPDF.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\DocumentPDF.cs",
+              "RelativeDocumentMoniker": "Examun_DOTNET_CC\\DocumentPDF.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\DocumentPDF.cs",
+              "RelativeToolTip": "Examun_DOTNET_CC\\DocumentPDF.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:14:35.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\Magazine.cs",
+              "RelativeDocumentMoniker": "Examun_DOTNET_CC\\Magazine.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\Magazine.cs",
+              "RelativeToolTip": "Examun_DOTNET_CC\\Magazine.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:05:45.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\Livre.cs",
+              "RelativeDocumentMoniker": "Examun_DOTNET_CC\\Livre.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\Livre.cs",
+              "RelativeToolTip": "Examun_DOTNET_CC\\Livre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:52:28.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\Document.cs",
+              "RelativeDocumentMoniker": "Examun_DOTNET_CC\\Document.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Bureau\\cc_dotnet\\Examun_DOTNET_CC\\Examun_DOTNET_CC\\Document.cs",
+              "RelativeToolTip": "Examun_DOTNET_CC\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:38:33.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
