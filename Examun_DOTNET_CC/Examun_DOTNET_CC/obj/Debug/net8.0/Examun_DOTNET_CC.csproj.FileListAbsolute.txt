@@ -26,3 +26,18 @@ C:\Users\abdel\OneDrive\Bureau\cc_dotnet\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\D
 C:\Users\abdel\OneDrive\Bureau\cc_dotnet\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\Examun_DOTNET_CC.pdb
 C:\Users\abdel\OneDrive\Bureau\cc_dotnet\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\Examun_DOTNET_CC.genruntimeconfig.cache
 C:\Users\abdel\OneDrive\Bureau\cc_dotnet\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\ref\Examun_DOTNET_CC.dll
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\bin\Debug\net8.0\Examun_DOTNET_CC.exe
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\bin\Debug\net8.0\Examun_DOTNET_CC.deps.json
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\bin\Debug\net8.0\Examun_DOTNET_CC.runtimeconfig.json
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\bin\Debug\net8.0\Examun_DOTNET_CC.dll
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\bin\Debug\net8.0\Examun_DOTNET_CC.pdb
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\Examun_DOTNET_CC.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\Examun_DOTNET_CC.AssemblyInfoInputs.cache
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\Examun_DOTNET_CC.AssemblyInfo.cs
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\Examun_DOTNET_CC.csproj.CoreCompileInputs.cache
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\Examun_DOTNET_CC.sourcelink.json
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\Examun_DOTNET_CC.dll
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\refint\Examun_DOTNET_CC.dll
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\Examun_DOTNET_CC.pdb
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\Examun_DOTNET_CC.genruntimeconfig.cache
+c:\Users\abdel\.NET examen\Examen_.NET-Mohammed-ElBouhdidi\Examun_DOTNET_CC\Examun_DOTNET_CC\obj\Debug\net8.0\ref\Examun_DOTNET_CC.dll
